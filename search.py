@@ -1,7 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-
 def search_error(error):
     """Opens chrome, searchs for the error and opens each stackoverflow answer in a new tab"""
     driver = webdriver.Chrome()
