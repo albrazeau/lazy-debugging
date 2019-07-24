@@ -1,7 +1,7 @@
 # lazy-debugging
 ## Tools for the laziest of the lazy
 
-#### Sick of searching stackoverflow for you problems? Try this out:
+#### Sick of searching stackoverflow for your problems? Try this out:
 _requires chromedriver_
 ```python
 from search import search_error
